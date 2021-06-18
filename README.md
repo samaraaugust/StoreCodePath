@@ -24,9 +24,8 @@ Submitted by: **Samara Augustin**
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+<img src='https://github.com/samaraaugust/StoreCodePath/blob/main/StoreCodePath.gif' title='Video Walkthrough' width='500'/>
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Reflection
 
