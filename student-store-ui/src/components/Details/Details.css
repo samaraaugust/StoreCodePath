@@ -1,0 +1,24 @@
+.detailPage {
+    background: #00c385;
+    margin: 40px auto;
+    width: 100%;
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    display:block;
+}
+.detailTitle {
+    text-align: center;
+}
+
+.everything .detailPicture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.everything .detailPicture img {
+    width: 185px;
+}
+

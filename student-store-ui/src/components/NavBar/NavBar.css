@@ -1,0 +1,37 @@
+.navBar {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 0;
+    left:0;
+    background: #2c4047;
+}
+
+.navBar .content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 600px;
+    width: 100 px;
+    margin: 0 auto;
+}
+
+.navBar .content .logo {
+    font-size: 25px;
+}
+
+.navBar .content .links {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.navBar .content .links li {
+    margin: 0 20px;
+    font-size: 18px;
+    color: white;
+}

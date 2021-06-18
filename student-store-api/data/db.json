@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "name": "Sprite",
+      "category": "Food",
+      "image": "https://images.heb.com/is/image/HEBGrocery/001397083",
+      "source": "https://www.target.com/p/sprite-20-fl-oz-bottle/-/A-12953480?ref=tgt_adv_XS000000&AFID=google_pla_df&fndsrc=tgtao&DFA=71700000012732781&CPNG=PLA_Grocery%2BShopping_Local%7CGrocery_Ecomm_Food_Bev&adgroup=SC_Grocery&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9003478&targetid=pla-812785438214&ds_rl=1246978&ds_rl=1248099&gclid=Cj0KCQjw5auGBhDEARIsAFyNm9FwkWAD3LC32wxGU2W8N2mczGL1p7DHyLvHLNIO3usUccmCc3dSQxsaAifLEALw_wcB&gclsrc=aw.ds",
+      "description": "Colorless, lemon-lime soft drink with 100% natural flavors. Caffeine-free. Sprite Zero Sugar – zero-calorie, sugar-free soda - is also available. Perfect size for drinking with meals, on the go, or any time.",
+      "price": 1.99,
+      "idNum": 1
+    },
+    {
+      "name": "Cardigan",
+      "category": "Clothing",
+      "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw59292098/1_front_750/00429514-08.jpg?sw=500&sh=750",
+      "source": "https://www.forever21.com/us/2000429514082.html?source=shoppingads&glCountry=US&glCurrency=USD",
+      "description": "A ribbed knit cardigan featuring an open front, 3/4 dolman sleeves, and a cocoon silhouette.",
+      "price": 19.99,
+      "idNum": 2
+    },
+    {
+      "name": "Bracelets",
+      "category": "Accessories",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61cFuF9UU5L._AC_UL1200_.jpg",
+      "source": "https://www.amazon.com/Starain-Bangle-Feather-Adjustable-Bracelet/dp/B07QJZFS26",
+      "description": "Charm Cuff Bracelet -- Minimalist bracelet dainty and unique classic open adjustable cuff bracelet, suitable to wear every day.",
+      "price": 8.88,
+      "idNum": 3
+    },
+    {
+      "name": "Sterling Silver Choker Necklace",
+      "category": "Accessories",
+      "image": "https://i5.walmartimages.com/asr/82d2bf91-2929-41cd-919a-e2397eab3d30_1.92c3e35c4caa19a7d9d1f218e29f30b4.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff",
+      "source": "https://www.walmart.com/ip/Round-CZ-Sterling-Silver-Small-Dainty-Choker-Necklace/56014084",
+      "description": "The simplicity and charm of this necklace makes it an everyday favorite. The choker features a delicate round CZ gemstone linked to a rolo chain. Crafted of fine sterling silver, this necklace has a three-inch extender and fastens with a classic spring ring clasp.Round CZ Sterling Silver Small Dainty Choker Necklace:Crafted in sterling silver1.3 ct. t.g.w. CZMeasures 13\" with extension Spring ring closure",
+      "price": 11.88,
+      "idNum": 4
+    },
+    {
+      "name": "Nintendo Switch",
+      "category": "Tech",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61-PblYntsL._AC_SL1500_.jpg",
+      "source": "https://www.amazon.com/Nintendo-Switch-Neon-Blue-Joy%E2%80%91/dp/B07VGRJDFY",
+      "description": "Connects over Wi-Fi for multiplayer gaming; Up to 8 consoles can be connected for local wireless multiplayer",
+      "price": 299.99,
+      "idNum": 5
+    },
+    {
+      "name": "Beats Solo Pro",
+      "category": "Tech",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MRJ62?wid=1611&hei=2394&fmt=jpeg&qlt=95&.v=1570059311796",
+      "source": "https://www.apple.com/shop/product/MRJ62LL/A/beats-solo-pro-wireless-noise-cancelling-headphones-black",
+      "description": "Get inspired with Solo Pro wireless headphones. To deliver sound how you want it, Solo Pro features two listening modes: Active Noise Cancelling (ANC) and Transparency mode. Beats’ Pure ANC gives you the space to create with fully immersive sound, while Transparency mode helps you stay aware of your surroundings. Every detail of Solo Pro has been carefully considered, right down to the intuitive way the headphones turn on and off via folding. The ergonomic design delivers exceptional comfort for extended wear and sleek style. And with up to 22 hours of battery life, you can keep the music going no matter where your day takes you.",
+      "price": 299.95,
+      "idNum": 6
+    },
+    {
+      "name": "Classic Clog",
+      "category": "Clothing",
+      "image": "https://images.crocs.com/is/image/Crocs/10001_3U3_ALT140?&fmt=jpeg&qlt=85,1&op_sharpen=0&resMode=sharp2&op_usm=1,1,6,0&iccEmbed=0&printRes=72&wid=702&hei=586",
+      "source": "https://www.crocs.com/p/classic-clog/10001.html",
+      "description": "Original. Versatile. Comfortable. It’s the iconic clog that started a comfort revolution around the world! The irreverent go-to comfort shoe that you’re sure to fall deeper in love with day after day. Crocs Classic Clogs offer lightweight Iconic Crocs Comfort™, a color for every personality, and an ongoing invitation to be comfortable in your own shoes.",
+      "price": 49.99,
+      "idNum": 7
+    },
+    {
+      "name": "Sour Patch Kids",
+      "category": "Food",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81SFEy-bzlL._SL1500_.jpg",
+      "source": "https://www.amazon.com/Sour-Patch-Sweet-Gummy-Original/dp/B01BOQRN80",
+      "description": "Mischief-filled SOUR PATCH KIDS start out sour then turn sweet. Whether you’re trying to plan out the perfect prank or the ideal delight, these tasty little confections are chewy treats to be enjoyed when you’re in need of a play-filled break. SOUR PATCH KIDS come in single packs for individual snacking and bulk packages that are ideal for sharing. Get some for your next movie night, or just for a fun sour then sweet treat for you, your family and friends.",
+      "price": 14.99,
+      "idNum": 8
+    },
+    {
+      "name": "Jeans",
+      "category": "Clothing",
+      "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa9%2Fb6%2Fa9b637ca9026aec3559f49fc3b430abac3ed696f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jeans_slim%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "source": "https://www2.hm.com/en_us/productpage.0448509014.html",
+      "description": "Ankle-length, 5-pocket jeans in thick, washed cotton denim. High waist, button fly, and straight, slim legs with raw-edge hems.",
+      "price": 29.99,
+      "idNum": 9
+    },
+    {
+      "name": "Relaxed Fit Sweatshirt",
+      "category": "Clothing",
+      "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe6%2F62%2Fe662c3e9f77da5e59b4445c6db4e3461d1e1f41e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_sweatshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "source": "https://www2.hm.com/en_us/productpage.0685813001.html",
+      "description": "Soft, slightly looser-fit sweatshirt with dropped shoulders and ribbing at neckline, cuffs, and hem. Soft, brushed inside.",
+      "price": 14.99,
+      "idNum": 10
+    }
+  ],
+  "order": []
+}
