@@ -25,6 +25,8 @@ Submitted by: **Samara Augustin**
 ### Walkthrough Video
 
 <img src='https://github.com/samaraaugust/StoreCodePath/blob/main/StoreCodePath.gif' title='Video Walkthrough' width='500'/>
+<img src='https://github.com/samaraaugust/StoreCodePath/blob/main/StoreCodePathEndpoints.gif' title='Video Walkthrough' width='500'/>
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Reflection
